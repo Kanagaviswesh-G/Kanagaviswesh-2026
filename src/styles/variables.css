@@ -1,0 +1,16 @@
+:root {
+  --bg: #0a0805;
+  --bg-deep: #060503;
+  --bg-soft: #100d08;
+  --bg-tint: #2a2210;
+  --bg-card: #13100a;
+  --border: #2e2616;
+  --primary: #d4af37;
+  --primary-2: #f5d76e;
+  --on-primary: #1a1405;
+  --text: #faf7ef;
+  --muted: #a8a190;
+  --glow: rgba(212, 175, 55, 0.35);
+  --radius: 14px;
+  --gradient: linear-gradient(90deg, #b8860b, #f5d76e);
+}

@@ -1,0 +1,19 @@
+.container-x {
+  width: 100%;
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+html,
+body {
+  overflow-x: clip;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (max-width: 640px) {
+  html { font-size: 15px; }
+}
